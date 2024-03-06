@@ -1,14 +1,13 @@
-name = "Iris Shaders"
-filename = "iris-mc1.20.4-1.6.15.jar"
-side = "both"
+filename = 'iris-mc1.20.4-1.6.17.jar'
+name = 'Iris Shaders'
+side = 'client'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/dtaGVXSk/iris-mc1.20.4-1.6.15.jar"
-hash-format = "sha512"
-hash = "b828d50c6865cb1dcae52e3df2b82f9005d06ffd88f09f7ab690e20b0e1400b6f12ff14a437e0df36f2d147451cdc0e824ca85f0df9efeff0a3e9425f2eae5e7"
+hash = '2a9b725a720296b23666e7443ed23c37172ece3f0678457fb8b204a287cbe1d03726ddcfb20f3fbc2bd5e6cd8d1d74e80817b374b93db0c95537859b4e1b3ad1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar'
 
-[update]
 [update.modrinth]
-mod-id = "YL57xq9U"
-version = "dtaGVXSk"
+mod-id = 'YL57xq9U'
+version = 'kGdJ11Rt'
